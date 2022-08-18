@@ -2,6 +2,6 @@
 version: '3'
 services:
   prod:
-    image: 84.201.137.61:8086/boxfuse:latest
+    image: 51.250.102.132:8086/boxfuse:latest
     ports:
       - "80:8080"
