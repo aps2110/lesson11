@@ -4,4 +4,4 @@ services:
   prod:
     image: 84.201.137.61:8086/jenkins-agent
     ports:
-      - "80:8080"
+      - "8080:8080"
