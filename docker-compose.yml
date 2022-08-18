@@ -1,0 +1,7 @@
+---
+version: '3'
+services:
+  prod:
+    image: 84.201.137.61:8086/boxfuse:latest
+    ports:
+      - "80:8080"
